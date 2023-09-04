@@ -1,3 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hola ! mundo esto es una prueba de como editar desde git"); 
+﻿void MiPrimerMetodo()
+{
+    //Haz algo
+} 
+void MiSegundoMetodo()
+{
+    //Haz algo
+}
+void MiTercerMetodo()
+{
+    //Haz algo
+}
+
+
 
